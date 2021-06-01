@@ -1,0 +1,17 @@
+/* *{
+    height:100% !important;
+    width:100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+body,html{
+    height:100% !important;
+    width:100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+body,html{
+    font-family: 'Bad Script', cursive;
+}
